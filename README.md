@@ -52,3 +52,5 @@ La evaluación debe ir de la mano de la manera en la que se enseña. Si pretende
 
 Si queremos enseñar algo complejo, el conocimiento se absorberá con mayor facilidad si acercamos el concepto complejo a la realidad que conoce nuestro oyente. Ejemplo propio: si deseo explicar cómo funciona el sistema binario, recordemos primero las bases del sistema decimal y llevemos de la mano ambos conceptos.
 
+Aquí aparece lo que llamaremos el principio de dificultad deseada, que nos dice que para enseñar no debemos ni poner las cosas excesivamente sencillas, ya que perderíamos la sensación de reto y por lo tanto el interés del alumno, ni tampoco excesivamente difícil, ya que nos encontraríamos con un desafío imposible y el estudiante perdería rápidamente la atención.
+
