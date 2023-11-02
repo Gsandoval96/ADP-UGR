@@ -14,7 +14,7 @@
 
 ---
 
-- **Convocatoria ordinaria:** Por determinar
+- **Convocatoria ordinaria:** 16/11/2023 - Propuesto para las 16:30 en V Centenario - Del tema 1 al 5 - 3 o 4 preguntas, con material, se puede traer ordenador pero el examen es en papel
 - *Convocatoria extraordinaria:* 03/09/2023
 
 ## Temario
