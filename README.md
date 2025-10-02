@@ -19,7 +19,7 @@
 
 ## Temario
 
-- **Tema 1:** Desarrollo cognitivo: capacidades que puede alcanzar su pensamiento
+- [Tema 1](T1.md): Desarrollo cognitivo: capacidades que puede alcanzar su pensamiento
 - **Tema 2:** Desarollo social y emocional
 - **Tema 3:** Problemas durante la adolescencia
 
